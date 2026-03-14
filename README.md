@@ -177,21 +177,7 @@ bash uninstall.sh
 - [subconverter](https://github.com/tindy2013/subconverter)
 - [yq](https://github.com/mikefarah/yq)
 - [zashboard](https://github.com/Zephyruso/zashboard)
-
-## ⭐ Star History
-
-<a href="https://www.star-history.com/#nelvko/clash-for-linux-install&Date">
-
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=nelvko/clash-for-linux-install&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=nelvko/clash-for-linux-install&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=nelvko/clash-for-linux-install&type=Date" />
- </picture>
-</a>
-
-## 🙏 Thanks
-
-[@鑫哥](https://github.com/TrackRay)
+- [clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install)
 
 ## ⚠️ 特别声明
 
